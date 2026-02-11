@@ -57,4 +57,4 @@ Worked on a cybersecurity-related project focused on analyzing and handling secu
 
 ---
 
-⭐ Always learning. Always building.
+

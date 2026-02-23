@@ -1,7 +1,7 @@
 # Hi, I'm Areya K S 
 
 * 3rd Year Computer Science Student
-* Java | JavaScript | SQL | C
+* Java | JavaScript | MySQL | C
 * Currently learning Data Structures & Algorithms and React
 
 ---
